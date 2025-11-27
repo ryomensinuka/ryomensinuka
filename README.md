@@ -43,7 +43,6 @@
 
 <div align="center">
   <a href="https://github.com/ryomensinuka"><img src="https://img.shields.io/badge/GitHub-252119?style=for-the-badge&logo=github&logoColor=FFD580" /></a>
-  <a href="https://www.linkedin.com/in/co-founderkronex69316397/"><img src="https://img.shields.io/badge/LinkedIn-252119?style=for-the-badge&logo=linkedin&logoColor=FFD580" /></a>
   <a href="https://www.instagram.com/ryomensinuca/"><img src="https://img.shields.io/badge/Instagram-252119?style=for-the-badge&logo=instagram&logoColor=FFD580" /></a>
   <a href="mailto:arthur.calebersilva@gmail.com"><img src="https://img.shields.io/badge/Email-252119?style=for-the-badge&logo=gmail&logoColor=FFD580" /></a>
   <a href="https://ryomensinuka.github.io/A-APortfolio/"><img src="https://img.shields.io/badge/Portfolio-FFD580?style=for-the-badge&logo=about-dot-me&logoColor=252119" /></a>
@@ -60,7 +59,7 @@
 <p align="center">
   <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/5aaeb6c2-8c2a-4561-b18f-1bb7451e1c0c.png" width="64" alt="Mascot">
   <br><br>
-  <b>⚡ Feito com ☕, 💻 e muita 🔒 por Arthur Calebe</b>
+  <b>Feito com ☕ e 💻</b>
   <br>
   <sub>Tech + Hacking + Coffee Powered · 2025</sub>
 </p>
