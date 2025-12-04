@@ -45,7 +45,7 @@
   <a href="https://github.com/ryomensinuka"><img src="https://img.shields.io/badge/GitHub-252119?style=for-the-badge&logo=github&logoColor=FFD580" /></a>
   <a href="https://www.instagram.com/ryomensinuca/"><img src="https://img.shields.io/badge/Instagram-252119?style=for-the-badge&logo=instagram&logoColor=FFD580" /></a>
   <a href="mailto:arthur.calebersilva@gmail.com"><img src="https://img.shields.io/badge/Email-252119?style=for-the-badge&logo=gmail&logoColor=FFD580" /></a>
-  <a href="https://ryomensinuka.github.io/A-APortfolio/"><img src="https://img.shields.io/badge/Portfolio-FFD580?style=for-the-badge&logo=about-dot-me&logoColor=252119" /></a>
+  <a href="https://ryomensinuka.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FFD580?style=for-the-badge&logo=about-dot-me&logoColor=252119" /></a>
 </div>
 
 <p align="center">
