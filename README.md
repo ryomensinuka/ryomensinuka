@@ -1,19 +1,29 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B3621&height=120&section=header"/>
 
-```ascii
+```
     |                     .      '||                             
    |||       ... ..     .||.      || ..      ... ...     ... ..  
   |  ||       ||' ''     ||       ||' ||      ||  ||      ||' '' 
  .''''|.      ||         ||       ||  ||      ||  ||      ||     
 .|.  .||.    .||.        '|.'    .||. ||.     '|..'|.    .||.    
-                                                                 
-                                                                 
 ```
 
 <p align="center">
   <b>$ whoami</b><br>
-  <code>root@arthurcalebe: ~# Cybersecurity + Dev + Coffee ☕</code>
+  <code>root@arthurcalebe: ~# Web Dev · Security · Always Learning</code>
 </p>
+
+---
+
+```bash
+┌──(arthur@kali)-[~/profile]
+└─$ cat about.txt
+
+  Desenvolvedor web focado em HTML, CSS e JavaScript.
+  Estudante de eletrônica e C.
+  Pentesting e web security.
+  Se for aos poucos, posso chegar no topo.
+```
 
 ---
 
@@ -21,10 +31,10 @@
 ┌──(arthur@kali)-[~/profile]
 └─$ cat skills.txt
 
-[*] Languages:    Java | JavaScript | React
-[*] Security:     Pentesting | Web Security | CTF
-[*] Currently:    Hacking Labs | Backend Java
-[*] Fuel:         Coffee ☕ (Always High)
+[*] Frontend:     HTML | CSS | JavaScript
+[*] Learning:     C | Eletrônica
+[*] Security:     Web Security | Pentesting (estudando)
+[*] Fuel:         Water
 ```
 
 ---
@@ -43,9 +53,7 @@
 
 <div align="center">
   <a href="https://github.com/ryomensinuka"><img src="https://img.shields.io/badge/GitHub-252119?style=for-the-badge&logo=github&logoColor=FFD580" /></a>
-  <a href="https://www.instagram.com/ryomensinuca/"><img src="https://img.shields.io/badge/Instagram-252119?style=for-the-badge&logo=instagram&logoColor=FFD580" /></a>
   <a href="mailto:arthur.calebersilva@gmail.com"><img src="https://img.shields.io/badge/Email-252119?style=for-the-badge&logo=gmail&logoColor=FFD580" /></a>
-  <a href="https://ryomensinuka.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FFD580?style=for-the-badge&logo=about-dot-me&logoColor=252119" /></a>
 </div>
 
 <p align="center">
@@ -57,9 +65,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B3621&height=120&section=footer"/>
 
 <p align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/5aaeb6c2-8c2a-4561-b18f-1bb7451e1c0c.png" width="64" alt="Mascot">
-  <br><br>
-  <b>Feito com ☕ e 💻</b>
-  <br>
-  <sub>Tech + Hacking + Coffee Powered · 2025</sub>
+  <b>Feito com 🧠 e 💻</b><br>
+  <sub>Web Dev · Security · Water on top · 2026</sub>
 </p>
