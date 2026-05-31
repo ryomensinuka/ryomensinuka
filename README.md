@@ -7,7 +7,6 @@
  .''''|.      ||         ||       ||  ||      ||  ||      ||     
 .|.  .||.    .||.        '|.'    .||. ||.     '|..'|.    .||.
 
-https://ryomensinuka.github.io/terminal-portfolio/
 ```
 
 <p align="center">
